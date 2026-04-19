@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    background: #121212;
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.container {
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+}
+
+select, button {
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+#resultado {
+    margin-top: 20px;
+}
