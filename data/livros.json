@@ -1,0 +1,26 @@
+{
+  "triste": [
+    {
+      "titulo": "A Menina que Roubava Livros",
+      "descricao": "Uma história emocionante sobre perdas e esperança."
+    }
+  ],
+  "ansiosa": [
+    {
+      "titulo": "O Poder do Agora",
+      "descricao": "Ajuda a acalmar a mente e viver o presente."
+    }
+  ],
+  "feliz": [
+    {
+      "titulo": "Comer, Rezar, Amar",
+      "descricao": "Uma jornada leve e inspiradora."
+    }
+  ],
+  "terror": [
+    {
+      "titulo": "Drácula",
+      "descricao": "Clássico do terror sobre vampiros."
+    }
+  ]
+}
