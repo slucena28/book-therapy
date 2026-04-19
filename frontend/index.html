@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>MoodRead</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>📚 MoodRead</h1>
+        <p>Como você está se sentindo hoje?</p>
+
+        <select id="mood">
+            <option value="">Selecione</option>
+            <option value="triste">😢 Triste</option>
+            <option value="ansiosa">😰 Ansiosa</option>
+            <option value="feliz">😍 Feliz</option>
+            <option value="terror">😱 Quero terror</option>
+        </select>
+
+        <button onclick="buscarLivros()">Buscar</button>
+
+        <div id="resultado"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
